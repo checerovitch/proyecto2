@@ -137,7 +137,6 @@ main .main-buttons button:hover{
    box-shadow: 0 0.1rem 0.1rem #dadce0;
 }
 /*----------------------------------footer's styles begin here--------------------------------------*/
-/*Solución propuesta en el curso de Platzi*/
 footer{
     width: 100%;
     height: 5rem;
@@ -168,46 +167,4 @@ footer ul li a{
 
 }
 
-/*mi propuesta*/
-/*footer{
-    margin-top: 15rem;
-    text-align: justify;
-}
-footer .footer-anchors a{
-    color: #5f6368;
-    margin-right: 3rem;
-}
-footer .footer-anchors a:hover{
-    text-decoration: underline;
-}
-footer .footer-country span{
-    color: #5f6368;
-}
-footer .footer-country{
-    width: 100%;
-    height: 4.5rem;
-    background-color: #f2f2f2;
-    font-size: 1.4rem;
-    padding: 1.5rem 3rem;
-    font-family:Arial, Helvetica, sans-serif;
-    border-bottom: 0.1rem solid #dadce0;
-}
-footer div{
-    display: inline-block;
-    margin: 0 auto;
-}
-footer .footer-anchors-left{
-    margin-right: 41rem;
-    margin-left: 0.3rem;
-}
-footer .footer-anchors-right{
-    margin-left: 4.7rem;
-}
-footer .footer-anchors{
-    width: 100%;
-    height: 4.5rem;
-    background-color: #f2f2f2;
-    font-size: 1.4rem;
-    padding: 1.5rem 3rem;
-    font-family:Arial, Helvetica, sans-serif;
-}*/
+
